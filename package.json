@@ -1,0 +1,26 @@
+{
+  "name": "brownbag-form-script",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "crm-common-js": "^2.6.11"
+  },
+  "devDependencies": {
+    "babel-core": "^6.24.1",
+    "babel-loader": "^7.0.0",
+    "babel-polyfill": "^6.23.0",
+    "babel-preset-es2015": "^6.24.1",    
+    "mocha": "^3.3.0",
+    "source-map-loader": "^0.2.1",
+    "ts-loader": "^2.0.3",
+    "ts-node": "^3.0.2",
+    "typescript": "^2.3.2",
+    "webpack": "^2.4.1"
+  }
+}
